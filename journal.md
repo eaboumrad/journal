@@ -1,9 +1,22 @@
 #Journal
-##Week1:
+##Week 1:
 + Hour 1: Went through the command line tutorial. Solving the challenges was fun
 + Hour 2: did the extra challenges. Struggled a bit with #3: making alias permanent, but then I read the blog and edited the file .bash_profile and it worked! Got lost on Challenge 5, I can’t find the Git folder in c:/program files. Tried to go to GitBash, find path, create goto-projects in that folder (with touch), edited file and saved, but when I ran Gitbash the command didn’t work
 + Hour 3: read the “Additional commands” section and tried them out. Read glossary.
 
-##Week1
-+ Hour 1: reviewed the *Command Line Crash Course*, downloaded *Anaconda*, created **journal.md** and started writing it in markdown. Read the original markdown post and tried some instructions. Decided to follow the tutorial of *programming historian* because I like the setup. Downloaded software requested by *programming historian*. I couldn't remember how to push this journal to git hub, so I googled it.
-+ Hour 2: 
+##Week 2
++ Hour 1: reviewed the *Command Line Crash Course*, downloaded *Anaconda*, created **journal.md** and started writing it in markdown. Read the original markdown post and tried some instructions. Decided to follow the tutorial of *programming historian* because I like the setup. Downloaded software requested by *programming historian*. I couldn't remember how to push this journal to git hub, so I googled it. I pushed the most recent version of this journal to GitHub.
++ Hour 2: installed Pandoc and Zotero. Learned what YAML metadata blocks are. Followed the *programming historian* tutorial and wrote
+
+* a poem
+* a shopping list for groceries
+* a poem by Dante with footnotes and an image with a caption! [^1]
+
+[^1]: all of it in markdown, obviously
+
+I also converted the .md file to .docx. When I opened it with word, I realized I had made a mistake: I didn't put a space after the # sign and my heading didn't look like a heading.
+
++Hour 3: I converted my .md file into an html file! Installed Latex through <miktex.org> so that I can convert the file to **PDF** as well. Started reading about *Working with Bibliographies* while Latex downloads. I haven't been able to convert to PDF yet.
+
+Hour 4: Tried again to convert my .md file to pdf from the command line. Had to wait a little bit (more packages were installing), but then it succeeded. Opened Zotero and saved some articles through the Chrome extension. Created a .bib file and opened it in VS. On the 9th try, I managed to create a footnote with my citation and a bibliography on a PDF file! Then, pushed this journal to GitHub.
+
