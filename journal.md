@@ -48,12 +48,19 @@ I also converted the .md file to .docx. When I opened it with word, I realized I
 
 ## Week 4
 
-+ Hour 1: 
++ Hour 1 
     * Downloaded Anaconda again and installed it according to Prof. Smyth's instructions
     * I did exercises 5-6 from *Learn Python the hard way*
     * Tried running Python from the command line. It says the version but doesn't run.
 
-+ Hour 2:
++ Hour 2
     * Used IDLE for *Learn Python the Hard Way*, exercises 7-10
     * Exercise 10 has a list of **Escape Sequences**, so I made a cheat sheet in Python. some of the escape sequences didn't work, maybe because I'm using IDLE?
-    * Pushed journal to GitBash
+    * Pushed journal to GitHub
+
++ Hour 3
+    * Ex. 11-13 from *Learn Python the Hard Way*. Ran the script on the command line with inputs and variables, and it worked!
+
++ Hour 4
+    * Ex. 14 - 15. This is fun. I kinda want to create my version of *Adventure* now...
+    * Pushed goals and journal to GitHub
