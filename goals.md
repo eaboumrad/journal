@@ -1,3 +1,9 @@
+---
+title: Software Design - Goals
+author: Elena Abou Mrad
+date: February 26, 2020
+---
+
 # Goals
 1. Create a one-page website that is screen reader **accessible**
 2. Create a database (ex. for a digital archive)
