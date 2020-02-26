@@ -43,3 +43,17 @@ I also converted the .md file to .docx. When I opened it with word, I realized I
     * More about images and captions: ![image caption](image name)
 
 + Hour 3: Opened [Learn Python the Hard Way](https://learnpythonthehardway.org/book/) and tried to do Exercise 0. Couldn-t run python on the command line> bash gave me a "permission denied" message. I tried consulting online forums to solve the problem, but it didn't work. I installed Python 2.7, but it still didn't work. I downloaded ActiveState Python as suggested from *Learn Python the Hard Way*, but I don't know if installing it is a good idea. I got frustrated and decided to ask Prof. Smyth about it in tonight's class. Pushed journal to GitBash.
+
++ Hour 4: I borrowed *Learn Pyhton 3 the Hard Way* from the library yesterday. Did exercise 1-4 from the book.
+
+## Week 4
+
++ Hour 1: 
+    * Downloaded Anaconda again and installed it according to Prof. Smyth's instructions
+    * I did exercises 5-6 from *Learn Python the hard way*
+    * Tried running Python from the command line. It says the version but doesn't run.
+
++ Hour 2:
+    * Used IDLE for *Learn Python the Hard Way*, exercises 7-10
+    * Exercise 10 has a list of **Escape Sequences**, so I made a cheat sheet in Python. some of the escape sequences didn't work, maybe because I'm using IDLE?
+    * Pushed journal to GitBash
