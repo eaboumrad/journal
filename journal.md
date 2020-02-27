@@ -64,3 +64,8 @@ I also converted the .md file to .docx. When I opened it with word, I realized I
 + Hour 4
     * Ex. 14 - 15. This is fun. I kinda want to create my version of *Adventure* now...
     * Pushed goals and journal to GitHub
+
++ Hour 5
+    Things to do:
+    * Review Markdown part
+    * translate cheatsheet for escape sequences (now in a Python file) into a Markdown file and upload it to GitHub
