@@ -92,4 +92,5 @@ I also converted the .md file to .docx. When I opened it with word, I realized I
     * Ex. 20 from *Learn Python 3 the Hard Way*. Not bad, it worked! And I discovered what "seek" does and what is "+="
     * Ex. 21. It took me a bit to understand the "return" word and what it does, but in the end, it made sense.
     * Ex. 22: this is about writing a list of all the words I learnt in Python (called list_of_words.md) and what they do. I created a text file and I'll write a bit of it every time I practice and push it to GitHub (hopefully)
+    * Pushed the list_of_words to Github!
     * Pushed journal to GitHub
