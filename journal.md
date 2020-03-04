@@ -65,10 +65,21 @@ I also converted the .md file to .docx. When I opened it with word, I realized I
     * Ex. 14 - 15. This is fun. I kinda want to create my version of *Adventure* now...
     * Pushed goals and journal to GitHub
 
-+ Hour 5
+## Week 5
+
++ Hour 1
+
+    * Wrote my Geospatial Humanities Project in Markdown with a Bibliography built on Zotero.
+    * Reviewed the Markdown tutorial because I needed some info on how to convert files to PDF
+    * Converted my escape_sequences.py to a .md file. However, I wasn't able to export to pdf from the command line because the command \: is unavailable in coding T1.
+
++ Hour 2
+
+    * Created a .md file for my EdTech class project
+    * Ex. 16 from *Learn Python 3 the Hard Way* . The script didn't work with VS and the command line, so I tried using IDLE. It works, if I do "Run Customized": I think there might be a problem with the path in Anaconda. I did the study drills, these were a little more challenging than usual! In the end, it worked.
+    * Pushed to GitHub
 
     Things to do:
-    * Review Markdown part
-    * translate cheatsheet for escape sequences (now in a Python file) into a Markdown file and upload it to GitHub
+  
     * Write the new Ed Tech assignment in Markdown!
     * [readings for Week 4](https://github.com/smythp/software-design-lab)
