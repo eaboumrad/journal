@@ -78,8 +78,11 @@ I also converted the .md file to .docx. When I opened it with word, I realized I
     * Created a .md file for my EdTech class project
     * Ex. 16 from *Learn Python 3 the Hard Way* . The script didn't work with VS and the command line, so I tried using IDLE. It works, if I do "Run Customized": I think there might be a problem with the path in Anaconda. I did the study drills, these were a little more challenging than usual! In the end, it worked.
     * Pushed to GitHub
+    * Finished the [readings for Week 4](https://github.com/smythp/software-design-lab)
 
-    Things to do:
-  
-    * Write the new Ed Tech assignment in Markdown!
-    * [readings for Week 4](https://github.com/smythp/software-design-lab)
++ Hour 3
+
+    * Ex. 17 from *Learn Python 3 the Hard Way*. The study drill said to try and write all the program in one line, but mine didn't work. I'll try again when I'm a little more comfortable with Python.
+    * Ex. 18: the program did run, but I haven't really grasped what to use it for. I'll see if the next exercises make it clearer.
+    * Ex. 19: as the study drills suggested, I created my own function, including one where the user gives an input for the variables. However, I didn't do it in 10 different way, only 5.
+    * Pushed journal to GitHub
