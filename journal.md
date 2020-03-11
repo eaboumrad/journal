@@ -94,3 +94,18 @@ I also converted the .md file to .docx. When I opened it with word, I realized I
     * Ex. 22: this is about writing a list of all the words I learnt in Python (called list_of_words.md) and what they do. I created a text file and I'll write a bit of it every time I practice and push it to GitHub (hopefully)
     * Pushed the list_of_words to Github!
     * Pushed journal to GitHub
+
++ Hour 5
+    * Wrote my paper for Geospatial Humanities in markdown. Then, I exported it in Word to adjust the style (footnotes, images), and then exported it to PDF.
+
+## Week 6
+
++ Hour 1
+    * Installed Jekyll
+    * [HTML Tutorial on W3 Schools](https://www.w3schools.com/html/html_basic.asp)
+    * Created my html page for recipes! With picture and a list. And navigation bar.
+
++ Hour 2
+    * Downloaded Zoom for class
+    * Kept working on my html page. Added a poem between blockquotes.
+    * Committed journal to GitHub.
