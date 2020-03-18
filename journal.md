@@ -121,6 +121,8 @@ I also converted the .md file to .docx. When I opened it with word, I realized I
 
     * Set up the viewport meta for my html page...I din't thinki I could do responsive design on HTML this easily!
 
++ Hour 5: wrote my Geospatial Humanities assignment in markdown. I exported it to Word so I could add images, then exported it to PDF.
+
 ## Week 7
 
 + Hour 1: Kept working on my html document with [HTML Tutorial on W3 Schools](https://www.w3schools.com/html/html_basic.asp). 
@@ -138,4 +140,16 @@ I also converted the .md file to .docx. When I opened it with word, I realized I
 
 + Hour 2:
     * Pushed journal to GitHub
+    * Tidied up my html page according to the HTML Style guide
+    * Ex. 23 from *Learn Python 3 the Hard Way*. It doesn't run. Also, I don't know what's the goal in this one.
+
++ Hour 3:
+    * Ex 24: I'm still a little confused about variables and what happens when you change names. I wish this book explained thing a bit more instead of just asking me to copy some code...
+    * I got a little frustrated with *Learn Python the Hard Way* and its lack of explanation, so I decided to check out the [Python Tutorial on W3Schools](https://www.w3schools.com/python/python_intro.asp). I did the Python Quiz and scored 10 out of 25, which kind of sucks. I'll try their Tutorial and see.
+        1. Python Intro
+        2. Python Get Started
+        3. Python Syntax
+        4. Python Comments
+        5. Python Variables
+    * Pushed to GitHub
 
