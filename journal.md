@@ -101,11 +101,41 @@ I also converted the .md file to .docx. When I opened it with word, I realized I
 ## Week 6
 
 + Hour 1
+
     * Installed Jekyll
     * [HTML Tutorial on W3 Schools](https://www.w3schools.com/html/html_basic.asp)
     * Created my html page for recipes! With picture and a list. And navigation bar.
 
 + Hour 2
+
     * Downloaded Zoom for class
     * Kept working on my html page. Added a poem between blockquotes.
     * Committed journal to GitHub.
++ Hour 3
+
+    * Worked on my html page: added a link to a heading, changed style of one of the headings with the id tag.
+    * Kept going through the HTML Tutorial
+    * Created a second html page (connected to the first one) with a conversions table for US and metric system.
+
++ Hour 4
+
+    * Set up the viewport meta for my html page...I din't thinki I could do responsive design on HTML this easily!
+
+## Week 7
+
++ Hour 1: Kept working on my html document with [HTML Tutorial on W3 Schools](https://www.w3schools.com/html/html_basic.asp). 
+
+    * HTML Responsive
+    * HTML Computercode
+    * HTML Semantics: tried to add a "figure" section to contain the image on mt html page, but the caption ends up under the paragraph instead of the picture. I don't know why. I tried removing the "hr" spacing, but it didn't fix it.
+    * HTML Entities
+    * HTML Symbols
+    * HTML Emojis: added an emoji to my html page. Honestly, it's interesting that there are so many things I can do, but I think I'll just search for them as I need them...I don't think it would be useful to learn all these special symbols and characters.
+    * HTML Charset
+    * HTML URL Encode: Finally I understand what the different parts of a URL are.
+    * HTML XHTML
+    * HTML Style Guide: this was useful...my html looks pretty messy at this point, so I'm gonna make it tidier.
+
++ Hour 2:
+    * Pushed journal to GitHub
+
