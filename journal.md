@@ -144,12 +144,24 @@ I also converted the .md file to .docx. When I opened it with word, I realized I
     * Ex. 23 from *Learn Python 3 the Hard Way*. It doesn't run. Also, I don't know what's the goal in this one.
 
 + Hour 3:
-    * Ex 24: I'm still a little confused about variables and what happens when you change names. I wish this book explained thing a bit more instead of just asking me to copy some code...
+    * Ex. 24: I'm still a little confused about variables and what happens when you change names. I wish this book explained thing a bit more instead of just asking me to copy some code...
     * I got a little frustrated with *Learn Python the Hard Way* and its lack of explanation, so I decided to check out the [Python Tutorial on W3Schools](https://www.w3schools.com/python/python_intro.asp). I did the Python Quiz and scored 10 out of 25, which kind of sucks. I'll try their Tutorial and see.
         1. Python Intro
         2. Python Get Started
         3. Python Syntax
         4. Python Comments
         5. Python Variables
-    * Pushed to GitHub
+    * Pushed journal to GitHub
+
++ Hour 4: continued with the [Python Tutorial on W3Schools](https://www.w3schools.com/python/python_intro.asp). I like their method! They explain what's going on.
+    * Python Data Types
+    * Python Numbers
+    * Python Casting
+    * Python Strings
+    * Pyhton Booleans: I had to Google what "Boolean" means(a binary variable, having two possible values called “true” and “false.”.). I discovered it's called this way from George Boole †1864, English mathematician.
+    * Python Operators
+    * Python Lists
+    * Python Tuples
+    * Pushed Journal to GitHub.
+
 
