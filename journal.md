@@ -164,4 +164,13 @@ I also converted the .md file to .docx. When I opened it with word, I realized I
     * Python Tuples
     * Pushed Journal to GitHub.
 
++ Hour 5: more [Python Tutorial on W3Schools](https://www.w3schools.com/python/python_intro.asp).
+    * Python Sets
+    * Python Dictionaries
+    * Python If...Else
+    * Python While Loops
+    * Python For Loops
+    * Python Functions
+    * Pushed Journal to GitHub
+
 
