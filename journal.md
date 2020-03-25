@@ -173,4 +173,17 @@ I also converted the .md file to .docx. When I opened it with word, I realized I
     * Python Functions
     * Pushed Journal to GitHub
 
+## Week 8
+
+This week I wrote another paper in markdown, but for some reason I can't get the Bibliography when I convert it to Word or PDF. I went through the markdown tutorial and it seems like I did everything they way I was supposed to, I can't figure out what went wrong. This is a little frustrating!
+
++ Hour 1: More HTML from [w3 Schools!](https://www.w3schools.com/html/html_forms.asp)
+    * HTML Forms
+    * HTML Form Elements
+    * HTML Input Types
+    * HTML Input Attributes
+    * HTML Input Form Attributes: This was all very nice, but I don't know where to output the data from the form, even just to test it out!
+
+
+
 
