@@ -184,6 +184,13 @@ This week I wrote another paper in markdown, but for some reason I can't get the
     * HTML Input Attributes
     * HTML Input Form Attributes: This was all very nice, but I don't know where to output the data from the form, even just to test it out!
 
++ Hour 2: More *Learn Python the Hard Way*
+    * Ex. 23: I went back to this one to see if I can understand it better after the Python workshop during class on 3/25. I'm still quite perplexed and the script does not run on the command line or on IDLE.
+    * Ex. 24. I reviewed this one. After the class, this is more clear.
+    * Ex. 25: I can't run python on the command line, but I tried doing it on IDLE and it worked! 
+    * Ex. 26: Yeah! I corrected all the bugs!
+
++ Hour 3: learning [CSS from w3 schools](https://www.w3schools.com/css/default.asp)
 
 
 
