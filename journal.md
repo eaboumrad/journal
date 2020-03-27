@@ -197,5 +197,11 @@ This week I wrote another paper in markdown, but for some reason I can't get the
     * CSS Selectors
     * CSS How To: I created an external CSS Stylesheet for my HTML pages. Wow, It was way easier than I thought!
 
++ Hour 4: more [CSS from w3 schools](https://www.w3schools.com/css/default.asp)
+    * CSS Comments
+    * CSS Colors: This was included in the HTML tutorial
+    * CSS Backgrounds + exercises
+    * CSS Borders + exercises
+
 
 
