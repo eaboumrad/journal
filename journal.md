@@ -191,6 +191,11 @@ This week I wrote another paper in markdown, but for some reason I can't get the
     * Ex. 26: Yeah! I corrected all the bugs!
 
 + Hour 3: learning [CSS from w3 schools](https://www.w3schools.com/css/default.asp)
+    * Tried the quiz: I scored 64%. Meh.
+    * CSS Introduction
+    * CSS Syntax
+    * CSS Selectors
+    * CSS How To: I created an external CSS Stylesheet for my HTML pages. Wow, It was way easier than I thought!
 
 
 
