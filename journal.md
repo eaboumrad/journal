@@ -203,5 +203,18 @@ This week I wrote another paper in markdown, but for some reason I can't get the
     * CSS Backgrounds + exercises
     * CSS Borders + exercises
 
+## Week 9
+I thought about my final project and came up with a couple of ideas, which I wrote in Markdown and pushed to GitHub. Then, I wrote down questions for prof. Smyth during class on April 1st. During class I had the opportunity to discuss my ideas with other students and I decided to pursue one of the two projects: the static website on Jekyll. I think it would be the most useful thing to practice, since I've always wanted to be able to design my own website.
+
+## Week 10
+
++ Hour 1: I started to create the framework for my final project: a static website on Jekyll. I decided to track my progress on this journal, so all the journaling is in one place and the [Final-Project folder on GitHub](https://github.com/eaboumrad/Final-Project) only contains the final project files.
+    * Created the README.md file and pushed to GitHub  (with command line)
+    * created the about.md file and pushed to GitHub (with command line)
+    * Define a **SCOPE**: creating a static website on Jekyll about the connection of food and poetry. It will be like arecipe blog, but where every poem has a corresponding recipe. There will be a section with measurement conversions: ideally in Python, where the program converts quantities; realistically, a table. The website will be screen-reader friendly and have elements of responsive design.
+    * I'm trying to design the structure of the website in a markdown file, so that I can have a sort of checklist of things to do.
+    * created a to-do list and pushed it to GitHub.
+
+
 
 
