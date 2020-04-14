@@ -219,9 +219,11 @@ I thought about my final project and came up with a couple of ideas, which I wro
 
 + Hour 1: started the [Jekyll tutorial on *Programming Historian*](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages). I found their Markdown tutorial very well done and I keep going back at it. For some mysterious reason, my folder for github is at the end of a very long path. I'll keep it here for easy access: "C:\Users\elena\Anaconda3\pkgs\spyder-3.3.6-py37_0\Lib\site-packages\spyder\widgets\github"
 
-+ Hour 2: started playing with Jekyll. Created the website and one new post. Pushed the repository to GitHub with GitHub Desktop and created a branch.
++ Hour 2: started playing with Jekyll. Created the [website](https://eaboumrad.github.io/foodpoetry/) and one new post. Pushed the repository to GitHub with GitHub Desktop and created a branch.
 
 + Hour 3: tried to [add a customized theme](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll) to my website. I chose cayman for now...most of the themes look very tacky. On the first try (jekyll-theme-cayman), the website wouldn't open. Second try - the same. Then I remembered that I have to run the website locally when I change _config.yml. Now my website opens, but the theme isn't there. I still have to get a hang of this part. I think I would be better off with creating my own CSS stylesheet.
+
++ Hour 4: wrote my first post on the website. I managed to create a nice blockquote for the poem using HTML language. Then, I tried to insert an image like I did on HTML, but it all went wrong: the image does not appear and the rest of the text is all jammed together instead of a list. I guess I can't mix kramdown and HTML. This is messy.
 
 
 
