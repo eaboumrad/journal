@@ -233,6 +233,17 @@ I thought about my final project and came up with a couple of ideas, which I wro
     * [Ed Documentation](https://elotroalex.github.io/ed/documentation/#markdown-and-kramdown)
     * [Kramdown Syntax](https://kramdown.gettalong.org/syntax.html#line-wrapping)
 
+## Week 12
+
++ Hour 1: it's been a week since I worked on my project and I already forgot what I was doing. Luckily there's the journal! Ok, my website looks terrible. For some reason, it's harder to work on it in markdown than in HTML. I'm seriously considering ditching the poem part because it throws everything else off. I thought about starting over, but it was even more confusing and I don't want to waste last week's work.
+
++ Hour 2: 
+    * I found some info about how to write in YAML [here](https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml) . This might help with the poem formatting.
+    * YAML didn't really help. What helped was doing it in HTML! I copied the contents from the exercises I was doing on HTML, and it looks just the way I want it.
+    * Tried again changing the theme to Cayman with the instructions from [here](https://jekyllrb.com/docs/themes/) and now the site has no content when I load the page. I'm getting frustrated here because I don't know what I'm doing wrong. 
+
++ Hour 3:
+    * Finished writing a post in HTML to see if it works. Just checked: it works!!!! And it looks great, too. What a relief. The only thing to add now, is the images, which still don't work (I tried both HTML and markdown).
 
 
 
