@@ -247,6 +247,12 @@ I thought about my final project and came up with a couple of ideas, which I wro
     * Tried Customizing my theme's CSS following the instruction on [GitHub's site](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-css), but it didn't work.
     * Tried customizing the Minima template to change the style according to the [Minima readme](https://github.com/jekyll/minima#customizing-templates).
 
++ Hour 4:
+    * Cleaned up my website by removing the "ugly" post about Tahdig and keeping the good one.
+    * Wrote another post about Lemon Pie.
+
+
+
 
 
 
