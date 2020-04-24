@@ -247,9 +247,15 @@ I thought about my final project and came up with a couple of ideas, which I wro
     * Tried Customizing my theme's CSS following the instruction on [GitHub's site](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-css), but it didn't work.
     * Tried customizing the Minima template to change the style according to the [Minima readme](https://github.com/jekyll/minima#customizing-templates).
 
-+ Hour 4:
++ Hour 4
     * Cleaned up my website by removing the "ugly" post about Tahdig and keeping the good one.
-    * Wrote another post about Lemon Pie.
+    * Wrote another post about Lemon Pie. The recipe is real and I made it today.
+    * I tried eliminating the blockquote, but for some reason the whole post is in a blockquote now. Oh wait, I solved it. I had forgotten to close the tags in HTML.
+
++ Hour 5: Now that the content is where I want it to be, I'm trying to tackle one problem at the time. I've been very messy so far, so I want to have a method in this madness. I Looked online for **how to insert images in Jekyll**.
+    * 1st try: tried [this method from Dev-Notes](https://dev-notes.eu/2016/01/images-in-kramdown-jekyll/). Sadly, it didn't work. I think it's because this solution is in markdown and I'm using html.
+    * 2nd try: I tried inserting the image like I did for my HTML website. I put the image in the same directory as the posts, the way I would do it for HTML. It's not working.
+    * 3rd try: I tried this method from [jekyllrb.com](https://talk.jekyllrb.com/t/i-cannot-get-an-image-to-display/850). It makes sense.
 
 
 
