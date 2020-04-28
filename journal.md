@@ -257,6 +257,18 @@ I thought about my final project and came up with a couple of ideas, which I wro
     * 2nd try: I tried inserting the image like I did for my HTML website. I put the image in the same directory as the posts, the way I would do it for HTML. It's not working.
     * 3rd try: I tried this method from [jekyllrb.com](https://talk.jekyllrb.com/t/i-cannot-get-an-image-to-display/850). It makes sense.
 
++ Hour 6: at the end of Hour 5 I wrote to prof. Smyth for help and he solved my problems on github!
+    * Accepted the pull request
+    * Did "git pull" in my repository
+    * checked the files edited by prof. Smyth
+    * Downloaded SQL for Wednesday 4/29 class
+
+Things to do:
+1. Change css in my website
+2. Try inserting images in posts
+3. make sure the website has responsive design
+4. Write a README.md
+
 
 
 
