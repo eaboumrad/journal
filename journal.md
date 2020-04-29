@@ -263,6 +263,11 @@ I thought about my final project and came up with a couple of ideas, which I wro
     * checked the files edited by prof. Smyth
     * Downloaded SQL for Wednesday 4/29 class
 
++ Hour 7: 
+    * Tried editing the styles.css file, but I can't see the results on my website. I tried editing the head.html file by changing " to ' and css/style.css to _css/style.css. Nothing.
+    * Tried adding a nav bar, but I still have to find a way to link the homepage to the "Home" button
+    * I tried to put the CSS in the head.html file, and it worked. I think that also starting the jekyll server helped. I'm still quite puzzled for the fact that my page can't link to my style.css file, though.
+
 Things to do:
 1. Change css in my website
 2. Try inserting images in posts
