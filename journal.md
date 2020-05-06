@@ -268,11 +268,24 @@ I thought about my final project and came up with a couple of ideas, which I wro
     * Tried adding a nav bar, but I still have to find a way to link the homepage to the "Home" button
     * I tried to put the CSS in the head.html file, and it worked. I think that also starting the jekyll server helped. I'm still quite puzzled for the fact that my page can't link to my style.css file, though.
 
++ Hour 8: 
+    * Looked online for "How to insert images in Jekyll".
+        1. Tried modifying the src to <img src="{{site.baseurl}}/assets/img/my-image.jpg"> as was advised [here](https://talk.jekyllrb.com/t/i-cannot-get-an-image-to-display/850/3). Didn't work.
+        2. Tried modifying to src= "{{site.url}}/assets/img/tahdig.jpg"> as I saw [here](https://travis.media/how-to-add-images-in-jekyll-posts-with-relative-links/). Did not work.
+    * **Responsive design**: I tested if my website is responsive and it works! Even on my iPhone. Small victory for today.
+    * Decided to stop obsessing on the images and to start writing the about.md file.
+
+Week 13:
+
++ Hour 1: I asked my roommate Khanh to help me out with the problem of the images that wouldn't load. It's nice to be quarantined with a software engineer in these cases! Anyway, we tried different paths for my image and it would not load. In the end, he found a workaraound: he inserted the link to the location of the image in GitHub...and it worked! Probably Jekyll has something weird about the paths, because the same problem happens with my styles.css file. I'll keep my CSS in the head file!
+
 Things to do:
-1. Change css in my website
-2. Try inserting images in posts
-3. make sure the website has responsive design
+1. Try inserting images in posts
+3. Finish writing about.md
 4. Write a README.md
+5. Test accessibility for screen reader
+6. Add Navigation Bar with Home, Contacts, About
+7. Insert alt text for images
 
 
 
