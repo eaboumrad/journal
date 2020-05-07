@@ -275,7 +275,7 @@ I thought about my final project and came up with a couple of ideas, which I wro
     * **Responsive design**: I tested if my website is responsive and it works! Even on my iPhone. Small victory for today.
     * Decided to stop obsessing on the images and to start writing the about.md file.
 
-Week 13:
+## Week 13:
 
 + Hour 1: I asked my roommate Khanh to help me out with the problem of the images that wouldn't load. It's nice to be quarantined with a software engineer in these cases! Anyway, we tried different paths for my image and it would not load. In the end, he found a workaraound: he inserted the link to the location of the image in GitHub...and it worked! Probably Jekyll has something weird about the paths, because the same problem happens with my styles.css file. I'll keep my CSS in the head file!
 
