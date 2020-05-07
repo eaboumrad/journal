@@ -293,10 +293,10 @@ I thought about my final project and came up with a couple of ideas, which I wro
 
 
 Things to do:
-3. Finish writing about.md
-4. Write a README.md
-5. Test accessibility for screen reader
-6. Add Navigation Bar with, Contacts, About
+* Finish writing about.md
+* Finish the README.md
+* Test accessibility for screen reader
+* Add Navigation Bar with, Contacts, About
 
 
 
