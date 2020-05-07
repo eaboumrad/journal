@@ -279,13 +279,24 @@ Week 13:
 
 + Hour 1: I asked my roommate Khanh to help me out with the problem of the images that wouldn't load. It's nice to be quarantined with a software engineer in these cases! Anyway, we tried different paths for my image and it would not load. In the end, he found a workaraound: he inserted the link to the location of the image in GitHub...and it worked! Probably Jekyll has something weird about the paths, because the same problem happens with my styles.css file. I'll keep my CSS in the head file!
 
++ Hour 2: Improving the webstite
+    * Added image to the Lemon Pie post with Khanh's trick. It worked! I also decided to move the image near the recipe: at the top of the page, it collided with the poem when I changed the dimension of the browser page.
+    * Added Navigation Bar. After a couple tries, I realized I had to link the button to the index.html file in the _site folder. As of now, the Home button is working, yay! The only problem is that the navigation bar looks really ugly in the Homepage. I want to try and resend the default.yml to the server, maybe it will help.
+
++ Hour 3: 
+    * edited my about.md
+    * wrote my README.md
+    * Edited "title" in the head.html so that the title of the blog can be visible in the browser tab. it worked!
+    * For some reason, my "Home" button doesn't work anymore. When I click it, it just sends me to a 404 page.
+    * Sent an "Issue" with a tag to prof. Smyth about the nav bar.
+
+
+
 Things to do:
-1. Try inserting images in posts
 3. Finish writing about.md
 4. Write a README.md
 5. Test accessibility for screen reader
-6. Add Navigation Bar with Home, Contacts, About
-7. Insert alt text for images
+6. Add Navigation Bar with, Contacts, About
 
 
 
