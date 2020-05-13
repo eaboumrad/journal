@@ -290,13 +290,20 @@ I thought about my final project and came up with a couple of ideas, which I wro
     * For some reason, my "Home" button doesn't work anymore. When I click it, it just sends me to a 404 page.
     * Sent an "Issue" with a tag to prof. Smyth about the nav bar.
 
++ Hour 4: Edited the config.yml according to Prof. Smyth's response to my "Issue" on GitHub
+    * Navbar: Used href: "/" for homepage, but it works only when I launch it locally.
+    * "About me" page: added info.md to the directory and wrote it in HTML, with the "layout: default" at the top of the page. Then, I linked this to the "About Me" button on the navbar. However, this one too only works when I launch the website locally. At this point, I'm happy if my site runs locally, but I'd prefer to have it work onlive as well!
+    * Finished the README.md
+
++ Hour 5:
+    * Added Conversions page and linked it to the "conversions" button on the Nav bar. Of course, this one too only runs locally.
+
 
 
 Things to do:
+
 * Finish writing about.md
-* Finish the README.md
 * Test accessibility for screen reader
-* Add Navigation Bar with, Contacts, About
 
 
 
