@@ -297,12 +297,14 @@ I thought about my final project and came up with a couple of ideas, which I wro
 
 + Hour 5:
     * Added Conversions page and linked it to the "conversions" button on the Nav bar. Of course, this one too only runs locally.
+    * Figured out how to make the Nav Bar work! For some reason, it still wants href="foodpoetry" or href = "foodpoetry/info". As Larry David says in that weird Woody Allen Movie: "Whatever Works!"
 
 
 
 Things to do:
 
 * Finish writing about.md
+* Lemon pie: repeat measurements in recipe preparation
 * Test accessibility for screen reader
 
 
