@@ -305,7 +305,7 @@ I thought about my final project and came up with a couple of ideas, which I wro
 
 ## Week 14
 + Hour 1:
-    * There is still one thing bothering me: the fact that the Nav Bar overlaps with the text on the home page. I'm going to try and modify the index.markdown to push the text down the page and make the layout a little neater. I browsed the W3 Schools tutorial on HTML to see if I could use any of the tools. In the end, I changed index.markdown, adding a <pre> block with three empty lines. My homepage looks great now! It feels a little like putting a patch, but I'm very happy I figured out how to do it.
+    * There is still one thing bothering me: the fact that the Nav Bar overlaps with the text on the home page. I'm going to try and modify the index.markdown to push the text down the page and make the layout a little neater. I browsed the W3 Schools tutorial on HTML to see if I could use any of the tools. In the end, I changed index.markdown, adding a '<pre>' block with three empty lines. My homepage looks great now! It feels a little like putting a patch, but I'm very happy I figured out how to do it.
     * I decided to add some more conversions to my "Conversions" table, just because it looks a little empty right now.
     * Went through Prof. Smyth's suggestions for the README.md to check if I can add anything to mine.
     * Finished writing my about.md file.
